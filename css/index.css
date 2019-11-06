@@ -210,6 +210,18 @@ img {
     justify-content: space-around;
   }
 }
+.main-navigation .nav-container .nav a:nth-child(1) {
+  order: 1;
+}
+.main-navigation .nav-container .nav a:nth-child(2) {
+  order: 2;
+}
+.main-navigation .nav-container .nav a:nth-child(3) {
+  order: 3;
+}
+.main-navigation .nav-container .nav a:nth-child(4) {
+  order: 4;
+}
 .main-navigation .nav-container .nav a {
   font-size: 1.6rem;
   color: #212529;
